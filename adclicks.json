@@ -1,5 +1,5 @@
 {
-	"limitAdmobBannerClicks" : truex,
+	"limitAdmobBannerClicks" : true,
 	"limitAdmobInterClicks" : true,
 	"interMaxNum" : 2,
 	"bannerMaxNum" : 2,
