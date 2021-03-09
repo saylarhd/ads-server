@@ -1,17 +1,6 @@
 {
-	"limitAdmobBannerClicks" : true,
-	"limitAdmobInterClicks" : true,
-	"interMaxNum" : 2,
-	"bannerMaxNum" : 2,
-	"interTimer" : 10,
-	"bannerTimer" : 10,
-	"testAds" : false,
-	"loadingTimer" : 90,
-	"showProgressBar" : false,
-	"autoMoveActivities" : false,
-	"bannerIdLists" : [ "ca-app-pub-3940256099942544/6300978111"],
-	"interIdLists" : [ "ca-app-pub-3940256099942544/1033173712"],
-	"facebookBannerId" : "299010724885089_299011604885001",
-	"facebookInterstitialId" : "299010724885089_299014384884723",
-	"nextActivitiesName" : ["str.kilo.wps.testwf.activity_casqez"]
+	
+	"bannerId" : [ "ca-app-pub-3940256099942544/6300978111"],
+	"interId" : [ "ca-app-pub-3940256099942544/1033173712"],
+	
 }
